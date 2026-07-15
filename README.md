@@ -1,5 +1,5 @@
 # ⚡ Welcome to my Dev Hub! I'm Sojib Ahmed 👋
-### 🛠️ Junior Full-Stack Developer | Building Scalable Web Architecture
+### 🛠️ Full-Stack Developer | Building Scalable Web Architecture
 
 <p align="left">
   <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-3182CE?style=flat-square&logo=googlemaps&logoColor=white" />
