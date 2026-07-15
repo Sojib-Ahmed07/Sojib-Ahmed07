@@ -23,12 +23,14 @@ I am a Full-Stack Developer specializing in the modern JavaScript/TypeScript eco
 </p>
 
 ### ⚙️ Backend & Databases
+
 <p align="left">
   <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/Neon%20(Postgres)-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon Postgres" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma ORM" />
 </p>
 
 ### ☁️Cloud & Tools
@@ -41,10 +43,34 @@ I am a Full-Stack Developer specializing in the modern JavaScript/TypeScript eco
 </p>
 
 ### 🧩 Core Architectures & API Integrations
-*   **Authentication Hub:** Better Auth, NextAuth, Firebase Auth, Google OAuth, Custom JWT
-*   **Payment Infrastructure:** SSLCommerz Gateway Integration, Stripe
-*   **Email & Asset Delivery:** Brevo (Transactional Email), ImageKit
-*   **Developer Tools:** REST APIs, GitHub version control
+
+**Authentication Hub**
+<p align="left">
+  <img src="https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge" alt="Better Auth" />
+  <img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextAuth" />
+  <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Auth" />
+  <img src="https://img.shields.io/badge/Google%20OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google OAuth" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=%23d63aff" alt="JWT" />
+</p>
+
+**Payment Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/SSLCommerz-005A9C?style=for-the-badge" alt="SSLCommerz" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+</p>
+
+**Email & Asset Delivery**
+<p align="left">
+  <img src="https://img.shields.io/badge/Brevo-00E4B1?style=for-the-badge" alt="Brevo" />
+  <img src="https://img.shields.io/badge/ImageKit-005BFF?style=for-the-badge" alt="ImageKit" />
+</p>
+
+**Developer Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/REST%20APIs-E34F26?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
 ---
 
