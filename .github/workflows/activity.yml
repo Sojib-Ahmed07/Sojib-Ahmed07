@@ -1,0 +1,37 @@
+# Save in your profile repo as: .github/workflows/activity.yml
+# Rebuilds assets/activity.svg (your custom contribution dashboard) from your real GitHub data.
+name: Update activity dashboard
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"     # every 6 hours
+  workflow_dispatch:           # manual "Run workflow" button
+  push:                        # runs right after you commit changes
+    branches: [main]
+    paths-ignore:
+      - "assets/activity.svg"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Build dashboard
+        run: python3 .github/scripts/activity.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          OUTPUT: assets/activity.svg
+
+      - name: Commit & push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/activity.svg
+          if git commit -m "Update activity dashboard"; then
+            git push
+          fi
