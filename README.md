@@ -1,10 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1E3A8A,100:38BDF8&text=Sojib%20Ahmed&fontColor=FFFFFF&fontSize=60&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20PostgreSQL&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Sojib Ahmed — Full-Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1E3A8A,100:38BDF8&text=Sojib%20Ahmed&fontColor=FFFFFF&fontSize=60&fontAlignY=36&desc=Full-Stack%20Developer%20%40%20adEstra%20Solutions&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Sojib Ahmed — Full-Stack Developer at adEstra Solutions" />
 
 <a href="https://github.com/Sojib-Ahmed07">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=660&lines=Full-Stack+Developer+%40+adEstra+Solutions;I+ship+production-ready+Next.js+apps;Secure+auth+%E2%80%A2+Real+payments+%E2%80%A2+Clean+APIs;Available+for+freelance+projects" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=660&lines=I+build+full-stack+web+apps+end+to+end;Secure+auth+%E2%80%A2+Real+payments+%E2%80%A2+Clean+APIs;From+client+brief+to+live+production;Available+for+freelance+projects" alt="Typing intro" />
 </a>
 
 <br/><br/>
@@ -17,7 +17,6 @@
 
 <a href="https://linkedin.com/in/sojib-ahmed-6814a0387"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:ahmed.sojib0456@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://nexmart-labs.vercel.app"><img src="https://img.shields.io/badge/See%20Live%20Work-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live work" /></a>
 
 </div>
 
@@ -26,9 +25,7 @@
 <!-- ===================== ABOUT ===================== -->
 ## 👋 About Me
 
-I'm a **full-stack developer** who builds complete web products — database schema, API, auth, payments and UI — and ships them live. I work at **[adEstra Solutions](https://www.adestrasolutions.com/)**, a digital agency in Dhaka, building web products for real clients.
-
-My focus is the part most portfolios skip: **making apps safe to put in front of real users and real money.**
+I'm a **full-stack developer** at **[adEstra Solutions](https://www.adestrasolutions.com/)**, a digital agency in Dhaka, where I build and maintain web products for real clients. I own features end to end — data model, API, UI and deployment — and I care most about the parts that decide whether an app is safe to put in front of real users and real money.
 
 <div align="center">
   <img src="./assets/terminal.svg" width="100%" alt="Animated terminal: Sojib Ahmed, Full-Stack Developer at adEstra Solutions" />
@@ -53,8 +50,8 @@ My focus is the part most portfolios skip: **making apps safe to put in front of
 </td>
 <td width="33%" valign="top" align="center">
 <h3>🚀</h3>
-<b>Shipped, not just coded</b><br/>
-<sub>Every featured project is deployed and live — you can click through it right now.</sub>
+<b>Built for after launch</b><br/>
+<sub>Typed code, documented setup and clean deploys — so the app keeps running and the next developer isn't stuck.</sub>
 </td>
 </tr>
 </table>
@@ -65,52 +62,9 @@ My focus is the part most portfolios skip: **making apps safe to put in front of
 ## 🏢 Experience
 
 **Full-Stack Developer** · [adEstra Solutions](https://www.adestrasolutions.com/) · Dhaka, Bangladesh · *Present*
-> Building and maintaining client web products for a digital agency covering design, marketing and IT solutions.
-
-**Independent Projects** · Full-Stack
-> Designed and shipped a multi-vendor marketplace and a full e-commerce platform end to end — see below.
-
-<br/>
-
-<!-- ===================== PROJECTS ===================== -->
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 NexMart
-**Multi-vendor marketplace** with server-verified security.
-
-- Separate dashboards for **Shoppers, Sellers & Admins**
-- **SSLCommerz** — bKash, Nagad, Visa, Mastercard — with atomic transactions + duplicate-payment guard
-- **Better Auth** sessions stored in PostgreSQL; every route and Server Action checks the role on the server
-- SSR-safe persistent cart, dark/light mode, responsive UI
-
-`Next.js 16` `TypeScript` `Prisma` `PostgreSQL` `Tailwind v4`
-
-<a href="https://nexmart-labs.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" alt="NexMart live demo" /></a>
-<a href="https://github.com/Sojib-Ahmed07/nexmart"><img src="https://img.shields.io/badge/Source%20Code-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="NexMart source" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 Craftora
-**Full-stack e-commerce** with real-time admin analytics.
-
-- Separate **User & Admin** experiences — products, cart, order tracking
-- Role-based access control with **Better Auth**
-- Live admin dashboard in **Recharts** — sales & order statistics
-- Fully typed from database to UI with Prisma + TypeScript
-
-`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Recharts`
-
-<a href="https://craftora-kohl.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" alt="Craftora live demo" /></a>
-<a href="https://github.com/Sojib-Ahmed07/craftora"><img src="https://img.shields.io/badge/Source%20Code-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Craftora source" /></a>
-
-</td>
-</tr>
-</table>
+- Build and maintain web applications for agency clients across design, marketing and IT
+- Turn client briefs into data models, APIs and finished, responsive interfaces
+- Ship to production and keep apps running and improving after launch
 
 <br/>
 
@@ -176,23 +130,8 @@ My focus is the part most portfolios skip: **making apps safe to put in front of
 ## 📊 GitHub Activity
 
 <div align="center">
-
-<!-- 3D contribution city — generated daily by .github/workflows/profile-3d.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution calendar" />
-</picture>
-
-<br/><br/>
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Sojib-Ahmed07&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sojib-Ahmed07&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Sojib-Ahmed07&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" />
-
+  <!-- Custom dashboard, rebuilt every 6 hours by .github/workflows/activity.yml -->
+  <img src="./assets/activity.svg" width="100%" alt="Contribution activity: contributions, streaks, heatmap, weekly momentum and top languages" />
 </div>
 
 <br/>
