@@ -6,6 +6,10 @@ on:
   schedule:
     - cron: "0 18 * * *"   # 18:00 UTC = midnight in Dhaka, runs daily
   workflow_dispatch:       # lets you run it manually from the Actions tab
+  push:                    # also runs the moment you commit this file or the README
+    branches: [main]
+    paths-ignore:
+      - "profile-3d-contrib/**"
 
 permissions:
   contents: write
