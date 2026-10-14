@@ -30,15 +30,9 @@ I'm a **full-stack developer** who builds complete web products — database sch
 
 My focus is the part most portfolios skip: **making apps safe to put in front of real users and real money.**
 
-```ts
-const sojib = {
-  role:      "Full-Stack Developer @ adEstra Solutions",
-  coreStack: ["Next.js", "TypeScript", "Node.js", "Prisma", "PostgreSQL"],
-  shipsWith: ["Server-verified auth", "Role checks on the server", "Payment flows with duplicate-charge guards"],
-  learning:  ["NestJS", "System Design", "Docker & CI/CD"],
-  motto:     "If the server doesn't check it, it isn't secure.",
-};
-```
+<div align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Animated terminal: Sojib Ahmed, Full-Stack Developer at adEstra Solutions" />
+</div>
 
 <br/>
 
