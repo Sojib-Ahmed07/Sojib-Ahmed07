@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="900" height="694" viewBox="0 0 900 694" role="img" aria-label="Terminal intro: Sojib Ahmed, Full-Stack Developer at adEstra Solutions">
+<defs>
+  <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset="0.5" stop-color="#1E3A8A"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38BDF8" stop-opacity="0"/><stop offset="0.5" stop-color="#38BDF8" stop-opacity="0.9"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></linearGradient>
+  <radialGradient id="orb" cx="0.9" cy="0.05" r="0.55"><stop offset="0" stop-color="#38BDF8" stop-opacity="0.16"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+  <radialGradient id="orb2" cx="0.05" cy="1" r="0.5"><stop offset="0" stop-color="#A78BFA" stop-opacity="0.12"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#1E293B" stroke-width="0.6"/></pattern>
+  <clipPath id="c1"><rect x="26" y="69" width="0" height="23"><animate attributeName="width" from="0" to="860" begin="0.50s" dur="0.68s" fill="freeze"/></rect></clipPath>
+  <clipPath id="c2"><rect x="26" y="92" width="0" height="23"><animate attributeName="width" from="0" to="860" begin="1.38s" dur="0.28s" fill="freeze"/></rect></clipPath>
+  <clipPath id="c3"><rect x="26" y="115" width="0" height="23"><animate attributeName="width" from="0" to="860" begin="1.68s" dur="0.28s" fill="freeze"/></rect></clipPath>
+  <clipPath id="c4"><rect x="26" y="150" width="0" height="23"><animate attributeName="width" from="0" to="860" begin="1.98s" dur="1.08s" fill="freeze"/></rect></clipPath>
+  <clipPath id="c5"><rect x="26" y="173" width="0" height="23"><animate attributeName="width" from="0" to="860" begin="3.26s" dur="0.28s" fill="freeze"/></rect></clipPath>
+  <clipPath id="c6"><rect x="26" y="196" width="0" height="23"><animate attributeName="width" from="0" to="860" begin="3.56s" dur="0.28s" fill="freeze"/></rect></clipPath>
+  <clipPath id="c7"><rect x="26" y="219" width="0" height="23"><animate attributeName="width" from="0" to="860" begin="3.86s" dur="0.28s" fill="freeze"/></rect></clipPath>
+  <clipPath id="c8"><rect x="26" y="242" width="0" height="23"><animate attributeName="width" from="0" to="860" begin="4.16s" dur="0.28s" fill="freeze"/></rect></clipPath>
+  <clipPath id="c9"><rect x="26" y="277" width="0" height="23"><animate attributeName="width" from="0" to="860" begin="4.46s" dur="0.84s" fill="freeze"/></rect></clipPath>
+  <clipPath id="c10"><rect x="26" y="300" width="0" height="23"><animate attributeName="width" from="0" to="860" begin="5.50s" dur="0.28s" fill="freeze"/></rect></clipPath>
+  <clipPath id="c11"><rect x="26" y="323" width="0" height="23"><animate attributeName="width" from="0" to="860" begin="5.80s" dur="0.28s" fill="freeze"/></rect></clipPath>
+  <clipPath id="c12"><rect x="26" y="346" width="0" height="23"><animate attributeName="width" from="0" to="860" begin="6.10s" dur="0.28s" fill="freeze"/></rect></clipPath>
+  <clipPath id="c13"><rect x="26" y="369" width="0" height="23"><animate attributeName="width" from="0" to="860" begin="6.40s" dur="0.28s" fill="freeze"/></rect></clipPath>
+  <clipPath id="c14"><rect x="26" y="404" width="0" height="23"><animate attributeName="width" from="0" to="860" begin="6.70s" dur="0.88s" fill="freeze"/></rect></clipPath>
+  <clipPath id="c15"><rect x="26" y="427" width="0" height="23"><animate attributeName="width" from="0" to="860" begin="7.78s" dur="0.28s" fill="freeze"/></rect></clipPath>
+  <clipPath id="c16"><rect x="26" y="450" width="0" height="23"><animate attributeName="width" from="0" to="860" begin="8.08s" dur="0.28s" fill="freeze"/></rect></clipPath>
+  <clipPath id="c17"><rect x="26" y="473" width="0" height="23"><animate attributeName="width" from="0" to="860" begin="8.38s" dur="0.28s" fill="freeze"/></rect></clipPath>
+  <clipPath id="c18"><rect x="26" y="496" width="0" height="23"><animate attributeName="width" from="0" to="860" begin="8.68s" dur="0.28s" fill="freeze"/></rect></clipPath>
+  <clipPath id="c19"><rect x="26" y="531" width="0" height="23"><animate attributeName="width" from="0" to="860" begin="8.98s" dur="0.40s" fill="freeze"/></rect></clipPath>
+  <clipPath id="c20"><rect x="26" y="554" width="0" height="23"><animate attributeName="width" from="0" to="860" begin="9.58s" dur="0.28s" fill="freeze"/></rect></clipPath>
+  <clipPath id="c21"><rect x="26" y="589" width="0" height="23"><animate attributeName="width" from="0" to="860" begin="9.88s" dur="0.56s" fill="freeze"/></rect></clipPath>
+  <clipPath id="c22"><rect x="26" y="612" width="0" height="23"><animate attributeName="width" from="0" to="860" begin="10.64s" dur="0.28s" fill="freeze"/></rect></clipPath>
+</defs>
+<style>
+  text{font-family:"JetBrains Mono","Fira Code",Menlo,Consolas,"DejaVu Sans Mono",monospace;font-size:13.5px}
+  .cursor{animation:blink 1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+  .scan{animation:scan 4s linear infinite}
+  @keyframes scan{0%{transform:translateX(-300px)}100%{transform:translateX(900px)}}
+  .pulse{animation:pulse 2s ease-in-out infinite}
+  @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+</style>
+<rect x="1" y="1" width="898" height="692" rx="16" fill="#0B1220"/>
+<rect x="1" y="1" width="898" height="692" rx="16" fill="url(#grid)" opacity="0.5"/>
+<rect x="1" y="1" width="898" height="692" rx="16" fill="url(#orb)"/>
+<rect x="1" y="1" width="898" height="692" rx="16" fill="url(#orb2)"/>
+<rect x="1" y="1" width="898" height="692" rx="16" fill="none" stroke="url(#bd)" stroke-width="2"/>
+<path d="M1 44H899" stroke="#1E293B"/>
+<circle cx="28" cy="23" r="6.5" fill="#FF5F57"/><circle cx="50" cy="23" r="6.5" fill="#FEBC2E"/><circle cx="72" cy="23" r="6.5" fill="#28C840"/>
+<text x="450.0" y="28" text-anchor="middle" fill="#94A3B8" style="font-size:12.5px">sojib@adestra: ~/portfolio — zsh</text>
+<g class="pulse"><circle cx="864" cy="23" r="4.5" fill="#22C55E"/></g>
+<text x="852" y="28" text-anchor="end" fill="#22C55E" style="font-size:12px">available</text>
+<rect class="scan" x="0" y="43" width="300" height="2" fill="url(#glow)"/>
+  <g clip-path="url(#c1)"><text x="30" y="86"><tspan fill="#22C55E" font-weight="700">sojib@adestra</tspan><tspan fill="#94A3B8">:</tspan><tspan fill="#A78BFA" font-weight="700">~</tspan><tspan fill="#94A3B8">$ </tspan><tspan fill="#E2E8F0">cat about.md</tspan></text></g>
+  <g clip-path="url(#c2)"><text x="46" y="109"><tspan fill="#E2E8F0">Full-stack developer who owns features </tspan><tspan fill="#E2E8F0" font-weight="700">end to end</tspan><tspan fill="#E2E8F0"> — data model, API, UI, deploy.</tspan></text></g>
+  <g clip-path="url(#c3)"><text x="46" y="132"><tspan fill="#E2E8F0">I build for production: auth, payments and access control handled on the </tspan><tspan fill="#E2E8F0" font-weight="700">server</tspan><tspan fill="#E2E8F0">.</tspan></text></g>
+  <g clip-path="url(#c4)"><text x="30" y="167"><tspan fill="#22C55E" font-weight="700">sojib@adestra</tspan><tspan fill="#94A3B8">:</tspan><tspan fill="#A78BFA" font-weight="700">~</tspan><tspan fill="#94A3B8">$ </tspan><tspan fill="#E2E8F0">./experience --current</tspan></text></g>
+  <g clip-path="url(#c5)"><text x="46" y="190"><tspan fill="#38BDF8" font-weight="700">Full-Stack Developer</tspan><tspan fill="#94A3B8">  ·  </tspan><tspan fill="#E2E8F0" font-weight="700">adEstra Solutions</tspan><tspan fill="#94A3B8">  ·  Dhaka  ·  </tspan><tspan fill="#22C55E" font-weight="700">Present</tspan></text></g>
+  <g clip-path="url(#c6)"><text x="46" y="213"><tspan fill="#94A3B8">› </tspan><tspan fill="#E2E8F0">Build and maintain web apps for agency clients</tspan></text></g>
+  <g clip-path="url(#c7)"><text x="46" y="236"><tspan fill="#94A3B8">› </tspan><tspan fill="#E2E8F0">Turn client briefs into data models, APIs and finished UIs</tspan></text></g>
+  <g clip-path="url(#c8)"><text x="46" y="259"><tspan fill="#94A3B8">› </tspan><tspan fill="#E2E8F0">Ship to production and keep things running after launch</tspan></text></g>
+  <g clip-path="url(#c9)"><text x="30" y="294"><tspan fill="#22C55E" font-weight="700">sojib@adestra</tspan><tspan fill="#94A3B8">:</tspan><tspan fill="#A78BFA" font-weight="700">~</tspan><tspan fill="#94A3B8">$ </tspan><tspan fill="#E2E8F0">cat services.txt</tspan></text></g>
+  <g clip-path="url(#c10)"><text x="46" y="317"><tspan fill="#38BDF8" font-weight="700">Web apps</tspan><tspan fill="#E2E8F0" x="166">full-stack products, from first sketch to live launch</tspan></text></g>
+  <g clip-path="url(#c11)"><text x="46" y="340"><tspan fill="#38BDF8" font-weight="700">Dashboards</tspan><tspan fill="#E2E8F0" x="166">admin panels, analytics and role-based portals</tspan></text></g>
+  <g clip-path="url(#c12)"><text x="46" y="363"><tspan fill="#38BDF8" font-weight="700">E-commerce</tspan><tspan fill="#E2E8F0" x="166">stores and marketplaces with secure checkout</tspan></text></g>
+  <g clip-path="url(#c13)"><text x="46" y="386"><tspan fill="#38BDF8" font-weight="700">Integrations</tspan><tspan fill="#E2E8F0" x="166">payments, auth, email and media into existing apps</tspan></text></g>
+  <g clip-path="url(#c14)"><text x="30" y="421"><tspan fill="#22C55E" font-weight="700">sojib@adestra</tspan><tspan fill="#94A3B8">:</tspan><tspan fill="#A78BFA" font-weight="700">~</tspan><tspan fill="#94A3B8">$ </tspan><tspan fill="#E2E8F0">cat how-i-work.md</tspan></text></g>
+  <g clip-path="url(#c15)"><text x="46" y="444"><tspan fill="#22C55E" font-weight="700">✓ </tspan><tspan fill="#E2E8F0">Every permission is checked on the server — never just hidden in the UI</tspan></text></g>
+  <g clip-path="url(#c16)"><text x="46" y="467"><tspan fill="#22C55E" font-weight="700">✓ </tspan><tspan fill="#E2E8F0">Payments run in transactions with duplicate-charge protection</tspan></text></g>
+  <g clip-path="url(#c17)"><text x="46" y="490"><tspan fill="#22C55E" font-weight="700">✓ </tspan><tspan fill="#E2E8F0">Typed end to end, so bugs surface in the editor, not in production</tspan></text></g>
+  <g clip-path="url(#c18)"><text x="46" y="513"><tspan fill="#22C55E" font-weight="700">✓ </tspan><tspan fill="#E2E8F0">Readable code and documented setup, so the next dev isn't stuck</tspan></text></g>
+  <g clip-path="url(#c19)"><text x="30" y="548"><tspan fill="#22C55E" font-weight="700">sojib@adestra</tspan><tspan fill="#94A3B8">:</tspan><tspan fill="#A78BFA" font-weight="700">~</tspan><tspan fill="#94A3B8">$ </tspan><tspan fill="#E2E8F0">./now</tspan></text></g>
+  <g clip-path="url(#c20)"><text x="46" y="571"><tspan fill="#FBBF24">Going deeper on backend architecture — NestJS, system design, CI/CD</tspan></text></g>
+  <g clip-path="url(#c21)"><text x="30" y="606"><tspan fill="#22C55E" font-weight="700">sojib@adestra</tspan><tspan fill="#94A3B8">:</tspan><tspan fill="#A78BFA" font-weight="700">~</tspan><tspan fill="#94A3B8">$ </tspan><tspan fill="#E2E8F0">./contact</tspan></text></g>
+  <g clip-path="url(#c22)"><text x="46" y="629"><tspan fill="#38BDF8" font-weight="700">ahmed.sojib0456@gmail.com</tspan><tspan fill="#94A3B8">  ·  </tspan><tspan fill="#E2E8F0">open to freelance projects &amp; collaborations</tspan></text></g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="10.94s" dur="0.01s" fill="freeze"/>
+    <text x="30" y="664"><tspan fill="#22C55E" font-weight="700">sojib@adestra</tspan><tspan fill="#94A3B8">:</tspan><tspan fill="#A78BFA" font-weight="700">~</tspan><tspan fill="#94A3B8">$ </tspan></text>
+    <rect class="cursor" x="170" y="651" width="8" height="17" fill="#38BDF8"/>
+  </g>
+</svg>
