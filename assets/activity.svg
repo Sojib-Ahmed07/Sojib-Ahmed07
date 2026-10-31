@@ -33,7 +33,7 @@
 <rect x="1" y="1" width="898" height="547" rx="16" fill="url(#orb)"/>
 <rect x="1" y="1" width="898" height="547" rx="16" fill="url(#orb2)"/>
 <rect x="1" y="1" width="898" height="547" rx="16" fill="none" stroke="url(#bd)" stroke-width="2"/>
-<g class="up" style="animation-delay:.1s"><circle class="pulse" cx="36" cy="40" r="5" fill="#22C55E"/><text x="50" y="46" fill="#E2E8F0" font-size="19" font-weight="700">Contribution Activity</text><text x="870" y="45" text-anchor="end" fill="#64748B" font-size="12.5" class="mono">Oct 26, 2025  →  Oct 30, 2026</text></g>
+<g class="up" style="animation-delay:.1s"><circle class="pulse" cx="36" cy="40" r="5" fill="#22C55E"/><text x="50" y="46" fill="#E2E8F0" font-size="19" font-weight="700">Contribution Activity</text><text x="870" y="45" text-anchor="end" fill="#64748B" font-size="12.5" class="mono">Oct 26, 2025  →  Oct 31, 2026</text></g>
 <g class="up" style="animation-delay:0.25s"><rect x="30.0" y="70" width="199.5" height="96" rx="12" fill="#0F172A" stroke="#1E293B"/><rect x="30.0" y="70" width="4" height="96" rx="2" fill="#38BDF8"/><text x="52.0" y="118" fill="#38BDF8" font-size="34" font-weight="800">311</text><text x="52.0" y="140" fill="#E2E8F0" font-size="13.5" font-weight="600">contributions</text><text x="52.0" y="157" fill="#64748B" font-size="12">in the last year</text></g>
 <g class="up" style="animation-delay:0.37s"><rect x="243.5" y="70" width="199.5" height="96" rx="12" fill="#0F172A" stroke="#1E293B"/><rect x="243.5" y="70" width="4" height="96" rx="2" fill="#22C55E"/><text x="265.5" y="118" fill="#22C55E" font-size="34" font-weight="800">6</text><text x="265.5" y="140" fill="#E2E8F0" font-size="13.5" font-weight="600">day streak</text><text x="265.5" y="157" fill="#64748B" font-size="12">current</text></g>
 <g class="up" style="animation-delay:0.49s"><rect x="457.0" y="70" width="199.5" height="96" rx="12" fill="#0F172A" stroke="#1E293B"/><rect x="457.0" y="70" width="4" height="96" rx="2" fill="#FBBF24"/><text x="479.0" y="118" fill="#FBBF24" font-size="34" font-weight="800">9</text><text x="479.0" y="140" fill="#E2E8F0" font-size="13.5" font-weight="600">day streak</text><text x="479.0" y="157" fill="#64748B" font-size="12">longest</text></g>
@@ -423,6 +423,7 @@
 <rect class="cell" style="animation-delay:1.86s" x="844" y="255" width="12" height="12" rx="3" fill="#0C4A6E"><title>1 on 2026-10-28</title></rect>
 <rect class="cell" style="animation-delay:1.86s" x="844" y="270" width="12" height="12" rx="3" fill="#0C4A6E"><title>1 on 2026-10-29</title></rect>
 <rect class="cell" style="animation-delay:1.86s" x="844" y="285" width="12" height="12" rx="3" fill="#0C4A6E"><title>2 on 2026-10-30</title></rect>
+<rect class="cell" style="animation-delay:1.86s" x="844" y="300" width="12" height="12" rx="3" fill="#131C2E"><title>0 on 2026-10-31</title></rect>
 <g clip-path="url(#gridclip)"><rect class="sweep" x="64" y="210" width="140" height="105" fill="url(#sweep)"/></g>
 <g class="up" style="animation-delay:1.8s">
 <text x="726" y="336" text-anchor="end" fill="#64748B" font-size="10.5">Less</text>
